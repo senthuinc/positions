@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Senthu Inc.!"
 date:   2024-04-12 10:36:43 -0400
-categories: jekyll update
+categories: positions welcome
 ---
 
 # Ola!
