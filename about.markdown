@@ -5,4 +5,4 @@ permalink: /about/
 ---
 
 Senthu Sivasambu
-Earthling | Human | Son | Husband | Father | Technologist | Entrepreneur | Venture Capitalist 
+Earthling | Human | Son | Husband | Father | Technologist | Entrepreneur | Investor 
