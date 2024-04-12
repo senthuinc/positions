@@ -4,3 +4,14 @@
 
 layout: home
 ---
+#Channels
+https://www.youtube.com/channel/UCr0ab8Zq6DLYz_AAFeL4krw
+
+#Posts
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
